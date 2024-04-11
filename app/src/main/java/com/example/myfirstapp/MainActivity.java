@@ -81,5 +81,5 @@ public class MainActivity extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
     }
-
+    //baba bu projeye 3 milyon manat yatiriyor
 }
